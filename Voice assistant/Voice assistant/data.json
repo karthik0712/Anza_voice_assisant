@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "name": "Shreyansh Jain",
+            "email": "shreyansh.qriocity@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        }
+    ]
+}
